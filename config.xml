@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://yourdomain/ProyectPokedex0" version="1.0.0" viewmodes="maximized">
+    <tizen:application id="UEudmXlGGO.ProyectPokedex0" package="UEudmXlGGO" required_version="3.0"/>
+    <author email="andriusmw@yahoo.es">Professor Green (Perro)</author>
+    <content src="index.html"/>
+    <description>Pokédex de primera y segunda generación con:&#xD;
+-STATS Base&#xD;
+-STATS máx.lv.100&#xD;
+-Mov.Nivel&#xD;
+-Mov.MT/MO&#xD;
+-Grupo Huevo</description>
+    <feature name="http://tizen.org/feature/screen.size.all"/>
+    <icon src="Kanto_Pokédex_Infobox.png"/>
+    <name>Pokédex Gen1 y 2 Zero Lite</name>
+    <tizen:profile name="mobile"/>
+</widget>
