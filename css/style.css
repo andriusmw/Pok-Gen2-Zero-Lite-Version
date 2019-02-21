@@ -59,7 +59,7 @@ body {
 	src: url(../Fonts/PokemonClassic.ttf);
 }
 
-p{
+p, h2{
 	font-family:pokemonclassic;
 	color: black;
 }
