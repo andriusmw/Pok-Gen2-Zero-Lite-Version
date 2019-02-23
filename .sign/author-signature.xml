@@ -8,7 +8,7 @@
 </Reference>
 <Reference URI="config.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>ZW9wLJdwuOCSrql0wN/UE2hvkRQzOmrZ8Pf/QcL9o7o=</DigestValue>
+<DigestValue>cqawNLU8oiBgNo1tWP1X17mnX4VHzNYIhF9xPb3J/CQ=</DigestValue>
 </Reference>
 <Reference URI="#prop">
 <Transforms>
@@ -19,9 +19,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-H+xl3mvps7rY+P2ubLTanqpatg1tg4a9qhIkuIyXnspeYhrpfSijz5bVWX1OrBXTH+UzoaWaKbL1
-YbFfJ+6nRMM9NlzrXI+6zxs6WyuSUS6aNAi2fbfxLzRMj8jhuJcL0aaM7ltTnLCl4puGkj12eubn
-0cLh4zPhnt9eN7iPwpM=
+GGC3Ko17nrm9hs2YweNhSRrTxP8bVQaGeFJ3nTv3ikin9UjtgmxbcAy+Yy5nBlthXO+VekV3y03S
+oSkohsOKrYYhRki6vTid2LLkkzW4hccVzdmGu3KhVHxb0ALyfjd5XyiGs6PnmYOCou6plS6vXs6Q
+CzmVILp/2frQipTTTDQ=
 </SignatureValue>
 <KeyInfo>
 <X509Data>
