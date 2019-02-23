@@ -8,11 +8,11 @@
 </Reference>
 <Reference URI="author-signature.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>MbgVKaodaW0cpLBOmHCtILjYVK7yJNVzeNvCPm3F0uE=</DigestValue>
+<DigestValue>rYnnnfRvEU80CkIqReNAEo3sGDgtDZSTKe3y5vZWExQ=</DigestValue>
 </Reference>
 <Reference URI="config.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>cqawNLU8oiBgNo1tWP1X17mnX4VHzNYIhF9xPb3J/CQ=</DigestValue>
+<DigestValue>X9dP+WfOJddPmhxPDZHZuJg/2WC0+y2Hc73r/QRdqgg=</DigestValue>
 </Reference>
 <Reference URI="#prop">
 <Transforms>
@@ -23,9 +23,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-VxEEMA+enHvieEOoCrvDf/fupNRbU0RCyviGbxFFIzaG9rHHRbYf4Qu2JrNxP9VM+BMxyCazTt1g
-2FJuLxlWr/JKmCxQNb6B1zooS9L4FGPyfoDZSpHJTsBJMpaUkVPQWyW2KXa/w6guf2SNXny6+dW2
-snFbu+OIntp0uvUg/dw=
+lZtHsu9rxmnDED0UPL9u1IX9Xsb+YB8O3dT2gbPJHfgyeSSkoAAUbFpsAcq+pyM0TEe2GNINTqB1
+mDM+yELkKcxck5cSu1ZjPyQsNyTba8/s8nmk3ZTjUjjCGCW81ssSGNuHvhb/5DQG+QfNcQwCDxZv
+36f2qE/NuxQy+i3ve/k=
 </SignatureValue>
 <KeyInfo>
 <X509Data>
